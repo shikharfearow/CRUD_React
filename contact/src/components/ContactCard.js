@@ -13,7 +13,7 @@ const ContactCard = (contact)=>{
                     {email}
                 </div>
             </div>
-            <i class="trash alternate outline icon"
+            <i className="trash alternate outline icon"
                style={{color:"red",marginTop:"7px",float:"right",cursor:"pointer"}}
             >
             </i>
